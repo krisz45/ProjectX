@@ -1,0 +1,22 @@
+Adminisztátor a várkezelőhöz: 
+
+felhasználónév: Admin1
+jelszó: Admin06
+Daik: Admin06
+
+
+Főadministrátor :
+
+felhasznalónev: Foadmin1
+jelszo: Foadmin06
+daik: FAdmin06
+
+
+
+Felhasználó a weboldalhoz:
+név: Felhasznalo1
+jelszo: Felhasz06
+
+Adminisztátor a weboldalhoz:
+felhasználónév: Admin1
+jelszó: Admin06
