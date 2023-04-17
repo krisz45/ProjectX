@@ -1,0 +1,2 @@
+XAMPP PHP 8.0 letöltése ->
+https://www.apachefriends.org/download.html
