@@ -1,0 +1,26 @@
+Új adatok  tesztelése és hozzáfűzése a kiindulási adatokhoz a várkezelő alkalmazással
+
+Képek helye a weboldal mappájában 
+
+A porgramokhoz tartozó képek:
+htdocs/ProjectX/programme_handle/db_prog_images
+
+A galériához tartozó képek:
+htdocs/ProjectX/galery_handle/galery_images
+
+Prorgam képek helyének kiválasztása átmásoláshoz:
+
+1. Az asztali alkalmazáson belül a programok kezelésének felületére megy.
+2. Kiválasztja az alkalmazás számára a további_teszt_adatok/gyereknap mappát,ahonnan kiválasztja a képeket.
+   Természetesen akármelyik képet, ki tudja választani a meghajtóján.
+3. A feltöltés célmappájának kiválasztásához elnavigál a htdocs/ProjectX/programme_handle/db_prog_images mappához, ahol létre hoz egy új
+   mappát a másolni kívánt programoknak.
+
+
+Gléria képek helyének kiválasztása átmásoláshoz:
+
+1. Az asztali alkalmazáson belül a galéria képek kezelésének felületére megy.
+2. Kiválaszt egy programot a felületen.
+3. Kiválasztja a további_teszt_adatok/geléria_kezmuves, vagy további_teszt_adatok/galéria_solymászat mappában található képeket
+(lehet akármelyik kép a meghajtójáról).
+4. Célmappának kijelöli a htdocs/ProjectX/galery_handle/galery_images mappát és oda helyezi a képeket a program segítségével.
